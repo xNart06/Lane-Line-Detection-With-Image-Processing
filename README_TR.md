@@ -1,7 +1,7 @@
 
 
 <header>
-    <h1>🚗 Şerit Tespiti Projesi</h1>
+    <h1>Görüntü İşleme İle Şerit Tespit Sistemi</h1>
 </header>
 <p align="center">
   <a href="https://opencv.org/">
