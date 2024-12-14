@@ -4,7 +4,9 @@
     <h1>🚗 Şerit Tespiti Projesi</h1>
     <p>Bu proje, görüntü işleme teknikleri kullanarak yol şeritlerini tespit etmeyi amaçlamaktadır.</p>
 </header>
-##Proje Hakkında
+
+## Proje Hakkında
+
 <section>
 <h2>📋 Proje Adımları</h2>
 
