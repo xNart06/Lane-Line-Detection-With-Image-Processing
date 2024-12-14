@@ -6,36 +6,36 @@
 </header>
 
 <section>
-    <h2>📋 Proje Adımları</h2>
+<h2>📋 Proje Adımları</h2>
 
-    <h3>1. Videodan Görüntü Alınması</h3>
-    <p>Videodan analiz için bir kare görsel alınır.</p>
-    <img src="Images/test.png" alt="Videodan Görüntü Alınması">
+<h3>1. Videodan Görüntü Alınması</h3>
+<p>Videodan analiz için bir kare görsel alınır.</p>
+<img src="Images/test.png" alt="Videodan Görüntü Alınması">
 
-    <h3>2. BGR'den RGB'ye Dönüşüm</h3>
-    <p>OpenCV BGR formatında okuduğu görselleri, Matplotlib ile doğru görüntülemek için RGB formatına dönüştürüyoruz.</p>
-    <img src="Images/BGRtoRGB.png" alt="BGR Formatı">
-    <img src="Images/Matplotlib.png" alt="RGB Formatı">
+<h3>2. BGR'den RGB'ye Dönüşüm</h3>
+<p>OpenCV BGR formatında okuduğu görselleri, Matplotlib ile doğru görüntülemek için RGB formatına dönüştürüyoruz.</p>
+<img src="Images/BGRtoRGB.png" alt="BGR Formatı">
+<img src="Images/Matplotlib.png" alt="RGB Formatı">
 
-    <h3>3. Görüntü Boyutlarının Belirlenmesi</h3>
-    <p>Görselin boyutları belirlenerek analiz yapılır.</p>
-    <img src="Images/Shape.png" alt="Görsel Boyutları">
+<h3>3. Görüntü Boyutlarının Belirlenmesi</h3>
+<p>Görselin boyutları belirlenerek analiz yapılır.</p>
+<img src="Images/Shape.png" alt="Görsel Boyutları">
 
-    <h3>4. Görselin Kesilmesi (ROI)</h3>
-    <p>Şeritlerin bulunduğu bölgeye odaklanmak için görsel kesilir.</p>
-    <img src="Images/Cropped_Image.png" alt="Kesilmiş Görsel">
+<h3>4. Görselin Kesilmesi (ROI)</h3>
+<p>Şeritlerin bulunduğu bölgeye odaklanmak için görsel kesilir.</p>
+<img src="Images/Cropped_Image.png" alt="Kesilmiş Görsel">
 
-    <h3>5. Görseli Gri Formata Dönüştürme</h3>
-    <p>Görsel gri tonlamaya dönüştürülerek analiz kolaylaştırılır.</p>
-    <img src="Images/Gray.png" alt="Gri Tonlama">
+<h3>5. Görseli Gri Formata Dönüştürme</h3>
+<p>Görsel gri tonlamaya dönüştürülerek analiz kolaylaştırılır.</p>
+<img src="Images/Gray.png" alt="Gri Tonlama">
 
-    <h3>6. Kenar Tespiti (Canny Filtresi)</h3>
-    <p>Canny algoritması kullanarak kenarlar belirlenir.</p>
-    <img src="Images/Canny.png" alt="Canny Filtresi">
-    <img src="Images/Cropped_Canny.png" alt="Kesilmiş Canny Görseli">
+<h3>6. Kenar Tespiti (Canny Filtresi)</h3>
+<p>Canny algoritması kullanarak kenarlar belirlenir.</p>
+<img src="Images/Canny.png" alt="Canny Filtresi">
+<img src="Images/Cropped_Canny.png" alt="Kesilmiş Canny Görseli">
 
-    <h3>7. Şerit Çizgilerinin Çizilmesi</h3>
-    <p>Görselde tespit edilen kenarların üzerine şerit çizgileri çizilir.</p>
+<h3>7. Şerit Çizgilerinin Çizilmesi</h3>
+<p>Görselde tespit edilen kenarların üzerine şerit çizgileri çizilir.</p>
 </section>
 
 <section class="output-gif">
