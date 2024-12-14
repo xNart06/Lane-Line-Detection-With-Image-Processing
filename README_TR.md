@@ -2,8 +2,18 @@
 
 <header>
     <h1>🚗 Şerit Tespiti Projesi</h1>
-    <p>Bu proje, görüntü işleme teknikleri kullanarak yol şeritlerini tespit etmeyi amaçlamaktadır.</p>
 </header>
+<p align="center">
+  <a href="https://opencv.org/">
+    <img src="https://img.shields.io/badge/OpenCV-4.x-blue?logo=opencv&logoColor=white" alt="OpenCV">
+  </a>
+  <a href="https://numpy.org/">
+    <img src="https://img.shields.io/badge/NumPy-1.x-orange?logo=numpy&logoColor=white" alt="NumPy">
+  </a>
+  <a href="https://matplotlib.org/">
+    <img src="https://img.shields.io/badge/Matplotlib-3.x-green?logo=matplotlib&logoColor=white" alt="Matplotlib">
+  </a>
+</p>
 
 ## Proje Hakkında
 Bu proje, görüntü işleme teknikleri kullanılarak şerit tespit sistemi yapmayı amaçlamaktadır. Model eğitilmemiştir.
