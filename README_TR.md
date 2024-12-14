@@ -6,7 +6,7 @@
 </header>
 
 ## Proje Hakkında
-
+Bu proje, görüntü işleme teknikleri kullanılarak şerit tespit sistemi yapmayı amaçlamaktadır. Model eğitilmemiştir.
 <section>
 <h2>📋 Proje Adımları</h2>
 
