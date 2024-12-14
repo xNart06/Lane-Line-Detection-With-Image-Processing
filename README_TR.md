@@ -87,7 +87,7 @@ Bu proje, görüntü işleme teknikleri kullanılarak şerit tespit sistemi yapm
 </section>
 
 <section>
-    <h2>👨‍💻 Geliştirici</h2>
+    <h2>👨‍💻 Geliştiriciler</h2>
     <p><strong>Adınız Soyadınız</strong></p>
     <p><strong>Email:</strong> your-email@example.com</p>
     <p><strong>LinkedIn:</strong> <a href="https://linkedin.com/in/yourname" target="_blank">Profilinizi Ziyaret Edin</a></p>
