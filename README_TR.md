@@ -1,4 +1,4 @@
-# Şerit Tespit Sistemi
+# Görüntü İşleme İle Şerit Tespit Sistemi
 
 <p align="center">
   <a href="https://opencv.org/">
