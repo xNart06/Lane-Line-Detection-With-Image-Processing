@@ -22,6 +22,7 @@ Bu proje, görüntü işleme teknikleri kullanılarak şerit tespit sistemi yapm
 
 <h3>1. Videodan Görüntü Alınması</h3>
 - Videodan analiz için bir kare görsel alınır. Bu görselin alınma amacı, videoda çalışması için işlemleri ayarlamaktır.
+- skjvşfsdv
 <img src="Images/test.png" alt="Videodan Görüntü Alınması">
 
 <h3>2. BGR'den RGB'ye Dönüşüm</h3>
