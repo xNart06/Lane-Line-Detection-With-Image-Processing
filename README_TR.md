@@ -19,7 +19,7 @@ Bu proje, görüntü işleme teknikleri kullanılarak şerit tespit sistemi yapm
 <h2>📋 Proje Adımları</h2>
 
 <h3>1. Videodan Görüntü Alınması</h3>
-- Videodan analiz için bir kare görsel alınır. Bu görselin alınma amacı, videoda çalışması için işlemleri ayarlamaktır.
+Videodan analiz için bir kare görsel alınır. Bu görselin alınma amacı, videoda çalışması için işlemleri ayarlamaktır.
 <img src="Images/test.png" alt="Videodan Görüntü Alınması">
 
 <h3>2. BGR'den RGB'ye Dönüşüm</h3>
