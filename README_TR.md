@@ -1,5 +1,5 @@
 
-# Lane Line Detection With Image Processing
+# Görüntü İşleme İle Şerit Tespiti
 The target of this project is to be able to detect road lines using image processing techniques.
 
 ## Roadmap
