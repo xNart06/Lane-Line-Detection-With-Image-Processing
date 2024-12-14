@@ -1,8 +1,5 @@
+# Şerit Tespit Sistemi
 
-
-<header>
-    <h1>Görüntü İşleme İle Şerit Tespit Sistemi</h1>
-</header>
 <p align="center">
   <a href="https://opencv.org/">
     <img src="https://img.shields.io/badge/OpenCV-4.x-blue?logo=opencv&logoColor=white" alt="OpenCV">
@@ -16,13 +13,13 @@
 </p>
 
 ## Proje Hakkında
+
 Bu proje, görüntü işleme teknikleri kullanılarak şerit tespit sistemi yapmayı amaçlamaktadır. Model eğitilmemiştir.
-<section>
+
 <h2>📋 Proje Adımları</h2>
 
 <h3>1. Videodan Görüntü Alınması</h3>
-- Videodan analiz için bir kare görsel alınır. Bu görselin alınma amacı, videoda çalışması için işlemleri ayarlamaktır.
-- skjvşfsdv
+<p>Videodan analiz için bir kare görsel alınır. Bu görselin alınma amacı, videoda çalışması için işlemleri ayarlamaktır.</p>
 <img src="Images/test.png" alt="Videodan Görüntü Alınması">
 
 <h3>2. BGR'den RGB'ye Dönüşüm</h3>
@@ -49,54 +46,38 @@ Bu proje, görüntü işleme teknikleri kullanılarak şerit tespit sistemi yapm
 
 <h3>7. Şerit Çizgilerinin Çizilmesi</h3>
 <p>Görselde tespit edilen kenarların üzerine şerit çizgileri çizilir.</p>
-</section>
 
-<section class="output-gif">
-    <h2>🎥 Çıktı</h2>
-    <p>Projenin nihai çıktısı aşağıda gösterilmiştir.</p>
-    <img src="Videos/output_gif.gif" alt="Çıktı GIF">
-</section>
+<h2>🎥 Çıktı</h2>
+<p>Projenin nihai çıktısı aşağıda gösterilmiştir.</p>
+<img src="Videos/output_gif.gif" alt="Çıktı GIF">
 
-<section>
-    <h2>🛠️ Kullanılan Teknolojiler</h2>
-    <div class="technologies">
-        <ul>
-            <li><strong>Python</strong></li>
-            <li><strong>OpenCV</strong> - Görüntü işleme</li>
-            <li><strong>Matplotlib</strong> - Görsel analiz</li>
-        </ul>
-    </div>
-</section>
+<h2>🛠️ Kullanılan Teknolojiler</h2>
+<ul>
+  <li><strong>Python</strong></li>
+  <li><strong>OpenCV</strong> - Görüntü işleme</li>
+  <li><strong>Matplotlib</strong> - Görsel analiz</li>
+</ul>
 
-<section>
-    <h2>📂 Projeyi Çalıştırma</h2>
-    <div class="how-to-run">
-        <p>Projeyi çalıştırmak için aşağıdaki adımları takip edebilirsiniz:</p>
-        <ol>
-            <li>Projeyi klonlayın:  
-                <code>git clone https://github.com/username/serit-tespiti.git</code>  
-                <code>cd serit-tespiti</code>
-            </li>
-            <li>Gerekli kütüphaneleri yükleyin:  
-                <code>pip install opencv-python matplotlib</code>
-            </li>
-            <li>Proje dosyasını çalıştırın:  
-                <code>python main.py</code>
-            </li>
-        </ol>
-    </div>
-</section>
+<h2>📂 Projeyi Çalıştırma</h2>
+<p>Projeyi çalıştırmak için aşağıdaki adımları takip edebilirsiniz:</p>
+<ol>
+  <li>Projeyi klonlayın:  
+    <code>git clone https://github.com/username/serit-tespiti.git</code>  
+    <code>cd serit-tespiti</code>
+  </li>
+  <li>Gerekli kütüphaneleri yükleyin:  
+    <code>pip install opencv-python matplotlib</code>
+  </li>
+  <li>Proje dosyasını çalıştırın:  
+    <code>python main.py</code>
+  </li>
+</ol>
 
-<section>
-    <h2>👨‍💻 Geliştiriciler</h2>
-    <p><strong>Adınız Soyadınız</strong></p>
-    <p><strong>Email:</strong> your-email@example.com</p>
-    <p><strong>LinkedIn:</strong> <a href="https://linkedin.com/in/yourname" target="_blank">Profilinizi Ziyaret Edin</a></p>
-</section>
+<h2>👨‍💻 Geliştiriciler</h2>
+<p><strong>Adınız Soyadınız</strong></p>
+<p><strong>Email:</strong> your-email@example.com</p>
+<p><strong>LinkedIn:</strong> <a href="https://linkedin.com/in/yourname" target="_blank">Profilinizi Ziyaret Edin</a></p>
 
 <footer>
-    <p>© 2024 Şerit Tespiti Projesi | Tüm Hakları Saklıdır</p>
+  <p>© 2024 Şerit Tespiti Projesi | Tüm Hakları Saklıdır</p>
 </footer>
-
-</body>
-</html>
