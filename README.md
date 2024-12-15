@@ -79,28 +79,8 @@ This project focuses on creating a system that accurately detects road lane line
   <li><strong>Matplotlib</strong> - Used for visualizing and analyzing images.</li>
 </ul>
 
-<h2>📂 How to Run the Project</h2>
-<p>Follow the steps below to run the project:</p>
-<ol>
-  <li>Clone the repository:  
-    <code>git clone https://github.com/username/lane-detection.git</code>  
-    <code>cd lane-detection</code>
-  </li>
-  <li>Install the required libraries:  
-    <code>pip install opencv-python matplotlib</code>
-  </li>
-  <li>Run the project file:  
-    <code>python main.py</code>
-  </li>
-</ol>
-
 <h2>👨‍💻 Developers</h2>
 <p><strong>Furkan Hamza BOLAT</strong></p>
 <p><strong>Email:</strong> <a href="mailto:furkanhamzabolat@gmail.com">furkanhamzabolat@gmail.com</a></p>
 <p><strong>Furkan DAYI</strong></p>
 <p><strong>Email:</strong> <a href="mailto:furkan.dyi@hotmail.com">furkan.dyi@hotmail.com</a></p>
-
-
-<footer>
-  <p>© 2024 Lane Detection Project | All Rights Reserved</p>
-</footer>
