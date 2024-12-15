@@ -71,7 +71,7 @@ This project focuses on creating a system that accurately detects road lane line
 
 <h2>🎥 Output</h2>
 <p>The final output of the project is shown below.</p>
-<img src="Videos/output.gif" alt="Output GIF">
+<img src="Videos/output_gif.gif" alt="Output GIF">
 
 <h2>🛠️ Technologies Used</h2>
 <ul>
