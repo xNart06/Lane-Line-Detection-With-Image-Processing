@@ -46,7 +46,7 @@ This project focuses on creating a system that accurately detects road lane line
 <h3>3. Determining Image Dimensions</h3>
 <p>The dimensions of the image are determined for further analysis.</p>
 • The image's width, height, and channel count are calculated, which is essential for subsequent processing steps.  
-<img src="Images/Shape.png" alt="Image Dimensions">
+<img src="Images/Shape" alt="Image Dimensions">
 
 <h3>4. Cropping the Image (ROI)</h3>
 <p>The image is cropped to focus only on the area containing the lane lines.</p>
