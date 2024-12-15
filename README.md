@@ -53,9 +53,10 @@ This project focuses on creating a system that accurately detects road lane line
 • Region of Interest (ROI) cropping removes unnecessary parts of the image to focus on lane detection.  
 <img src="images/Cropped_Image.png" alt="Cropped Image">
 
-<h3>5. Converting the Image to Grayscale</h3>
+<h3>5. Blurring and converting the Image to Grayscale</h3>
 <p>The image is converted to grayscale to simplify analysis.</p>
 • Grayscale conversion removes color information, focusing only on brightness levels. This simplifies tasks like edge detection.  
+<img src="images/Blurred.png" alt="Blurred Image">
 <img src="images/Gray.png" alt="Grayscale Image">
 
 <h3>6. Edge Detection Using Canny Filter</h3>
