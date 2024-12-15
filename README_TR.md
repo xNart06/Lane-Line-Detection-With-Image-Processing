@@ -79,26 +79,9 @@ Bu proje, görüntü işleme teknikleri kullanarak, özellikle yol şeritlerinin
   <li><strong>Matplotlib</strong> - Görselleri analiz etmek ve görselleştirmek için kullanılan kütüphane.</li>
 </ul>
 
-<h2>📂 Projeyi Çalıştırma</h2>
-<p>Projeyi çalıştırmak için aşağıdaki adımları takip edebilirsiniz:</p>
-<ol>
-  <li>Projeyi klonlayın:  
-    <code>git clone https://github.com/username/serit-tespiti.git</code>  
-    <code>cd serit-tespiti</code>
-  </li>
-  <li>Gerekli kütüphaneleri yükleyin:  
-    <code>pip install opencv-python matplotlib</code>
-  </li>
-  <li>Proje dosyasını çalıştırın:  
-    <code>python main.py</code>
-  </li>
-</ol>
-
 <h2>👨‍💻 Geliştiriciler</h2>
-<p><strong>Adınız Soyadınız</strong></p>
-<p><strong>Email:</strong> your-email@example.com</p>
-<p><strong>LinkedIn:</strong> <a href="https://linkedin.com/in/yourname" target="_blank">Profilinizi Ziyaret Edin</a></p>
+<p><strong>Furkan Hamza BOLAT</strong></p>
+<p><strong>Email:</strong> <a href="mailto:furkanhamzabolat@gmail.com">furkanhamzabolat@gmail.com</a></p>
+<p><strong>Furkan DAYI</strong></p>
+<p><strong>Email:</strong> <a href="mailto:furkan.dyi@hotmail.com">furkan.dyi@hotmail.com</a></p>
 
-<footer>
-  <p>© 2024 Şerit Tespiti Projesi | Tüm Hakları Saklıdır</p>
-</footer>
