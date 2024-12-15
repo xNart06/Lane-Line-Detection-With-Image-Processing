@@ -71,7 +71,7 @@ Bu proje, görüntü işleme teknikleri kullanarak, özellikle yol şeritlerinin
 
 <h2>🎥 Çıktı</h2>
 <p>Projenin nihai çıktısı aşağıda gösterilmiştir.</p>
-<img src="Videos/output_gif.gif" alt="Çıktı GIF">
+<img src="Videos/output.gif" alt="Çıktı GIF">
 
 <h2>🛠️ Kullanılan Teknolojiler</h2>
 <ul>
