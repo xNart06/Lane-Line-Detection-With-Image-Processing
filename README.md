@@ -96,9 +96,10 @@ This project focuses on creating a system that accurately detects road lane line
 
 <h2>👨‍💻 Developers</h2>
 <p><strong>Furkan Hamza BOLAT</strong></p>
-<p><strong>Email:</strong> furkanhamzabolat@gmail.com</p>
+<p><strong>Email:</strong> <a href="mailto:furkanhamzabolat@gmail.com">furkanhamzabolat@gmail.com</a></p>
 <p><strong>Furkan DAYI</strong></p>
-<p><strong>Email:</strong> furkan.dyi@hotmail.com</p>
+<p><strong>Email:</strong> <a href="mailto:furkan.dyi@hotmail.com">furkan.dyi@hotmail.com</a></p>
+
 
 <footer>
   <p>© 2024 Lane Detection Project | All Rights Reserved</p>
