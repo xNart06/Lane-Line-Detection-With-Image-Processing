@@ -35,34 +35,35 @@ Bu proje, görüntü işleme teknikleri kullanarak, özellikle yol şeritlerinin
 <h3>1. Videodan Görüntü Alınması</h3>
 <p>Videodan analiz için bir kare görsel alınır. Bu görselin alınma amacı, videoda çalışması için işlemleri ayarlamaktır.</p>
 • Bu adım, gerçek zamanlı video akışlarından veri almak için temel bir adımdır.  
-<img src="Images/test.png" alt="Videodan Görüntü Alınması">
+<img src="images/test.png" alt="Videodan Görüntü Alınması">
 
 <h3>2. BGR'den RGB'ye Dönüşüm</h3>
 <p>OpenCV BGR formatında okuduğu görselleri, Matplotlib ile doğru görüntülemek için RGB formatına dönüştürüyoruz.</p>
 • Görüntülerin doğru bir şekilde görselleştirilmesi için renk formatı dönüştürülür.  
-<img src="Images/BGRtoRGB.png" alt="BGR Formatı">
-<img src="Images/Matplotlib.png" alt="RGB Formatı">
+<img src="images/BGRtoRGB.png" alt="BGR Formatı">
+<img src="images/Matplotlib.png" alt="RGB Formatı">
 
 <h3>3. Görüntü Boyutlarının Belirlenmesi</h3>
 <p>Görselin boyutları belirlenerek analiz yapılır.</p>
 • Görüntünün genişlik, yükseklik ve kanal sayısı hesaplanır. Bu, sonraki işleme adımlarının doğru uygulanabilmesi için önemlidir.  
-<img src="Images/Shape.png" alt="Görsel Boyutları">
+<img src="images/Shape.png" alt="Görsel Boyutları">
 
 <h3>4. Görselin Kesilmesi (ROI)</h3>
 <p>Şeritlerin bulunduğu bölgeye odaklanmak için görsel kesilir.</p>
 • Bu adımda, şeritlerin bulunduğu bölgeyi belirlemek ve gereksiz kısımları kesmek için ROI (Region of Interest) kesimi yapılır.  
-<img src="Images/Cropped_Image.png" alt="Kesilmiş Görsel">
+<img src="images/Cropped_Image.png" alt="Kesilmiş Görsel">
 
-<h3>5. Görseli Gri Formata Dönüştürme</h3>
+<h3>5. Bulanıklaştırma ve görseli Gri Formata Dönüştürme</h3>
 <p>Görsel gri tonlamaya dönüştürülerek analiz kolaylaştırılır.</p>
 • Gri tonlama, görüntüdeki renk bilgilerini atarak sadece parlaklık bilgilerini kullanmaya olanak tanır. Bu, kenar tespiti gibi işlemleri kolaylaştırır.  
-<img src="Images/Gray.png" alt="Gri Tonlama">
+<img src="images/Blurred.png" alt="Bulanıklaştırma">
+<img src="images/Gray.png" alt="Gri Tonlama">
 
 <h3>6. Kenar Tespiti (Canny Filtresi)</h3>
 <p>Canny algoritması kullanarak kenarlar belirlenir.</p>
 • Canny kenar algılama filtresi, görüntüdeki kenarları tespit etmek için kullanılır. Bu adım, şeritlerin sınırlarını net bir şekilde tanımlamamıza olanak tanır.  
-<img src="Images/Canny.png" alt="Canny Filtresi">
-<img src="Images/Cropped_Canny.png" alt="Kesilmiş Canny Görseli">
+<img src="images/Canny.png" alt="Canny Filtresi">
+<img src="images/Cropped_Canny.png" alt="Kesilmiş Canny Görseli">
 
 <h3>7. Şerit Çizgilerinin Çizilmesi</h3>
 <p>Görselde tespit edilen kenarların üzerine şerit çizgileri çizilir.</p>
