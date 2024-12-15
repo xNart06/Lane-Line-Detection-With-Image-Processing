@@ -46,7 +46,7 @@ Bu proje, görüntü işleme teknikleri kullanarak, özellikle yol şeritlerinin
 <h3>3. Görüntü Boyutlarının Belirlenmesi</h3>
 <p>Görselin boyutları belirlenerek analiz yapılır.</p>
 • Görüntünün genişlik, yükseklik ve kanal sayısı hesaplanır. Bu, sonraki işleme adımlarının doğru uygulanabilmesi için önemlidir.  
-
+<img src="Images/Shape.png" alt="Görsel Boyutları">
 
 <h3>4. Görselin Kesilmesi (ROI)</h3>
 <p>Şeritlerin bulunduğu bölgeye odaklanmak için görsel kesilir.</p>
