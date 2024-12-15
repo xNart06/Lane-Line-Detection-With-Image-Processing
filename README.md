@@ -35,34 +35,34 @@ This project focuses on creating a system that accurately detects road lane line
 <h3>1. Extracting a Frame from Video</h3>
 <p>A video frame is extracted for analysis. This ensures that the operations work effectively on real-time video streams.</p>
 • This is the foundational step for processing video data.  
-<img src="Images/test.png" alt="Frame Extraction">
+<img src="images/test.png" alt="Frame Extraction">
 
 <h3>2. Converting BGR to RGB</h3>
 <p>Images read in BGR format with OpenCV are converted to RGB format to display correctly using Matplotlib.</p>
 • Color format conversion ensures accurate visualization of images.  
-<img src="Images/BGRtoRGB.png" alt="BGR Format">
-<img src="Images/Matplotlib.png" alt="RGB Format">
+<img src="images/BGRtoRGB.png" alt="BGR Format">
+<img src="images/Matplotlib.png" alt="RGB Format">
 
 <h3>3. Determining Image Dimensions</h3>
 <p>The dimensions of the image are determined for further analysis.</p>
 • The image's width, height, and channel count are calculated, which is essential for subsequent processing steps.  
-<img src="Images/Shape.png" alt="Image Dimensions">
+<img src="images/Shape.png" alt="Image Dimensions">
 
 <h3>4. Cropping the Image (ROI)</h3>
 <p>The image is cropped to focus only on the area containing the lane lines.</p>
 • Region of Interest (ROI) cropping removes unnecessary parts of the image to focus on lane detection.  
-<img src="Images/Cropped_Image.png" alt="Cropped Image">
+<img src="images/Cropped_Image.png" alt="Cropped Image">
 
 <h3>5. Converting the Image to Grayscale</h3>
 <p>The image is converted to grayscale to simplify analysis.</p>
 • Grayscale conversion removes color information, focusing only on brightness levels. This simplifies tasks like edge detection.  
-<img src="Images/Gray.png" alt="Grayscale Image">
+<img src="images/Gray.png" alt="Grayscale Image">
 
 <h3>6. Edge Detection Using Canny Filter</h3>
 <p>The Canny algorithm is used to detect edges in the image.</p>
 • The Canny edge detection filter highlights edges, allowing clear identification of lane boundaries.  
-<img src="Images/Canny.png" alt="Canny Edge Detection">
-<img src="Images/Cropped_Canny.png" alt="Cropped Canny Image">
+<img src="images/Canny.png" alt="Canny Edge Detection">
+<img src="images/Cropped_Canny.png" alt="Cropped Canny Image">
 
 <h3>7. Drawing Lane Lines</h3>
 <p>Detected edges are used to draw lane lines on the image.</p>
